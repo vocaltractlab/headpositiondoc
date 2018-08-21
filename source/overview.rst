@@ -11,9 +11,8 @@ This is going to be where Background goes...
 Neck Position?
 **************
 Background about how neck is positioned
-Try Download ![here](./docs/helloworld.txt)
-Try again ![here](./helloworld.txt)
-Try again [here](./helloworld.txt)
+Try Download :download:`txt <docs/helloworld.txt>`
+
 Try again [here](./docs/helloworld.txt) 
 
 	* Link to Example `Vocal Tract Development Lab <http://www.waisman.wisc.edu/vocal>`_
