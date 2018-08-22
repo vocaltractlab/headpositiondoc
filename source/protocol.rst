@@ -55,3 +55,10 @@ The difference between the anterior and posterior lengths from the inferior bord
 
 
 
+
+Set Up
+======
+
+To run this protocol you will need to download the GUIDE multi-purpose machine learning algorithm from `Dr Loh's website <http://www.stat.wisc.edu/~loh/guide.html>`_. Additionally each step of the following protocol will have a unique cost matrix, description text, input file, and .csv file with the training data.  
+
+
