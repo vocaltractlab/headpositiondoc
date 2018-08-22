@@ -5,13 +5,18 @@
 
 Welcome to HPDoc's documentation!
 =================================
-This is a documentation for Head-Position etc...
+This is documentation for classifying head-position using multiple measures to account for the dynamic mobility of the head and neck.
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
    overview
+   Protocol
+     Measurements
+     Algorithm One
+     Algorithm Two
+   Interpretation
 
 
 
