@@ -12,7 +12,7 @@ This is documentation for classifying head-position using multiple measures to a
    :caption: Contents:
 
    overview
-   Protocol
+   protocol   
      Measurements
      Algorithm One
      Algorithm Two
