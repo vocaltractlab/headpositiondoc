@@ -28,8 +28,8 @@ Step Two
 This step identifies the remaing case as either flexed, neutral or extended using the GUIDE forest algorithm.
 
 Download the following files:
-	* Descriptive File :download: `txt <docs/Description1.txt>`
-	* Cost Matrix File :download:  `txt <docs/CostMatrix3x2.txt>`
-	* Test Input File :download: `inp <docs/test1.inp>`
+	* Descriptive File :download:`txt <docs/Description1.txt>`
+	* Cost Matrix File :download:`txt <docs/CostMatrix3x2.txt>`
+	* Test Input File :download:`inp <docs/test1.inp>`
 	* Training Data File 
 
