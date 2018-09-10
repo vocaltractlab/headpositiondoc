@@ -3,6 +3,8 @@ Head Position Protocol
 ======================
 The head position protocol includes two two-step algorithms.
 
+`pdf <docs/HP-Landmarks.pdf>` 
+
 
 Training Cases
 --------------
