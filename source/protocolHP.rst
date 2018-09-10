@@ -9,6 +9,7 @@ Necessary Files
 
 The two hybrid head position models require specific files unique to each step: a descriptive text file, a cost matrix test file, a test input file, and a training data in a .csv file. The four files necessary for each step can be downloaded at below in the description to each step. Furthermore, to run this protocol you will need to download the GUIDE multi-purpose machine learning algorithm from `Dr Loh's website <http://www.stat.wisc.edu/~loh/guide.html>`_.
 
+In order to make running the following steps best save the four files for each step separately.
 
 
 Head Position Model One
@@ -33,6 +34,16 @@ Download the following files:
 	* Test Input File :download:`inp <docs/test1.inp>`
 	* Training Data File :download:`csv <docs/Test.csv>`
 
+Protocol:
+        (1) Copy and Paste your data into the Training Data File below the original data by variable names. 
+                * Please note the training dataset for each set is unique and not transferable to other steps.
+                * If you rename the .csv file, update the file name on line 1 of the Descriptive file to the new name.
+        (2) Mark all the missing predictor values and dependent values as "NA"
+        (3) Open the Command Prompt (Start--> All Program-->Accessories-->Command Prompt).
+        (4) In the Command Prompt change the active folder to the folder where you have saved the above four documents necessary for running this step and the guide.exe file.
+        (5) Type guide<test1.inp then enter to run the GUIDE forest algorithm
+        (6) Once the algorithm has completed all 500 trees the prediction for Model one will be output into the same file as "predict1.txt".
+		* If you rerun this step, the "predict1.txt" file will be overwritten, therefore remember to rename the file if you want to save the predictive results.
 
 Head Position Model Two
 _______________________
@@ -51,6 +62,18 @@ Download the following files:
         * Training Data File 
 
 
+Protocol:
+        (1) Copy and Paste your data into the Training Data File below the original data by variable names. 
+                * Please note the training dataset for each set is unique and not transferable to other steps.
+                * If you rename the .csv file, update the file name on line 1 of the Descriptive file to the new name.
+        (2) Mark all the missing predictor values and dependent values as "NA"
+        (3) Open the Command Prompt (Start--> All Program-->Accessories-->Command Prompt).
+        (4) In the Command Prompt change the active folder to the folder where you have saved the above four documents necessary for running this step and the guide.exe file.
+        (5) Type guide<test1.inp then enter to run the GUIDE forest algorithm
+        (6) Once the algorithm has completed all 500 trees the prediction for Model one will be output into the same file as "predict1.txt".
+                * If you rerun this step, the "predict1.txt" file will be overwritten, therefore remember to rename the file if you want to save the predictive results.
+
+
 Step Two
 ++++++++
 
@@ -63,5 +86,15 @@ Download the following files
         * Test Input File
         * Training Data File
 
+Protocol:
+        (1) Copy and Paste your data into the Training Data File below the original data by variable names. 
+                * Please note the training dataset for each set is unique and not transferable to other steps.
+                * If you rename the .csv file, update the file name on line 1 of the Descriptive file to the new name.
+        (2) Mark all the missing predictor values and dependent values as "NA"
+        (3) Open the Command Prompt (Start--> All Program-->Accessories-->Command Prompt).
+        (4) In the Command Prompt change the active folder to the folder where you have saved the above four documents necessary for running this step and the guide.exe file.
+        (5) Type guide<test1.inp then enter to run the GUIDE forest algorithm
+        (6) Once the algorithm has completed all 500 trees the prediction for Model one will be output into the same file as "predict1.txt".
+                * If you rerun this step, the "predict1.txt" file will be overwritten, therefore remember to rename the file if you want to save the predictive results.
 
 
