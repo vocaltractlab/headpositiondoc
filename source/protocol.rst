@@ -3,6 +3,9 @@ Head Position Protocol
 ======================
 The head position protocol includes two two-step algorithms.
 
+figure_
+
+
 .. figure:: docs/HP-Landmarks.pdf
     :scale: 75%
     :alt: This figure identifies all landmarks necessary to classify head position. All landmarks should be placed in the anatomical midsagittal plane rather than the scan midsagittal plane. 
