@@ -13,9 +13,7 @@ This is documentation for classifying head-position using multiple measures to a
 
    overview
    protocol   
-     Measurements
-     Algorithm One
-     Algorithm Two
+   protocolHP
    Interpretation
 
 

@@ -1,6 +1,6 @@
 
-Protocols to Apply Head Position Classification
-===============================================
+Protocols to Set Up for Head Position Classification
+====================================================
 The head position protocol includes 14 landmarks. These landmarks are used to calculate 17 measurements. These 17 measures are then used in two hybrid GUIDE forest prediction models to classify head position.
 
 
@@ -93,12 +93,6 @@ Antero-Porsterio Distance Difference
 The difference between the anterior and posterior lengths from the inferior borders of C2 to C7.
 
 
-Head Position Protocol
-----------------------
-
-Set Up for Head Position Models
-_______________________________
-
-To run this protocol you will need to download the GUIDE multi-purpose machine learning algorithm from `Dr Loh's website <http://www.stat.wisc.edu/~loh/guide.html>`_. Additionally each step of the following protocol will have a unique cost matrix, description text, input file, and .csv file with the training data.  
+ 
 
 
