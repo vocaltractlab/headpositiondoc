@@ -1,0 +1,35 @@
+Test.csv
+NA
+2
+1 ID x
+2 Sex x
+3 Age x
+4 CA_month x
+5 Height_cm x
+6 Weight_kg x
+7 Head_Circ_cm x
+8 Neck_Circ_cm x
+9 Position d
+10 Extension x
+11 ModBhalala n
+12 Anterior x
+13 Posterior x
+14 APDifference n
+15 MP n
+16 Cobbs n
+17 C2 n
+18 C7_PI6_PI7 n
+19 C2C7Difference n
+20 C7_PI4_PI7 n
+21 C7_PI5_PI7 n
+22 C7_PS7_PI7 n
+23 C6_PI4_PI6 n
+24 PI4diff n
+25 PI5diff n
+26 PS7diff n
+27 PI4_6diff n
+28 APRatio x
+29 ANSPNS_Plane n
+30 Answer x
+31 TestSet x
+

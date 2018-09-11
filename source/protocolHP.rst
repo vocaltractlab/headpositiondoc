@@ -29,10 +29,10 @@ Step Two
 This step identifies the remaing case as either flexed, neutral or extended using the GUIDE forest algorithm.
 
 Download the following files:
-	* Descriptive File :download:`txt <docs/Description1.txt>`
-	* Cost Matrix File :download:`txt <docs/CostMatrix3x2.txt>`
-	* Test Input File :download:`inp <docs/test1.inp>`
-	* Training Data File :download:`csv <docs/Test.csv>`
+	* Descriptive File :download:`txt <docs/step1/Description1.txt>`
+	* Cost Matrix File :download:`txt <docs/step1/CostMatrix3x2.txt>`
+	* Test Input File :download:`inp <docs/step1/test1.inp>`
+	* Training Data File :download:`csv <docs/step1/Test.csv>`
 
 Protocol:
 
@@ -60,15 +60,15 @@ Step One
 This step identified extended cases using the GUIDE forest method.  This step provides a yes or no answer whether each case is in extended or in another position. The cases which have an output of yes should be identified as extended and removed from the dataset before proceeding to step two. 
 
 Download the following files:
-        * Descriptive File
-        * Cost Matrix File
-        * Test Input File 
-        * Training Data File 
+        * Descriptive File :download:`txt <docs/2step1/Description1.txt>`
+        * Cost Matrix File :download:`txt <docs/2step1/CostMatrix3x2.txt>`
+        * Test Input File :download:`inp <docs/2step1/test1.inp>`
+        * Training Data File :download:`csv <docs/2step1/Test.csv>`
 
 
 Protocol:
 
-        (1) Copy and Paste your data into the Training Data File below the original data by variable names. 
+        (1) Copy and Paste your data into the Training Data File 
 
                 * Please note the training dataset for each set is unique and not transferable to other steps.
                 * If you rename the .csv file, update the file name on line 1 of the Descriptive file to the new name.
@@ -89,10 +89,11 @@ This step identifies the remaining cases as either flexed, neutral, or extended 
 
 
 Download the following files
-        * Descriptive File
-        * Cost Matrix File
-        * Test Input File
-        * Training Data File
+        * Descriptive File :download:`txt <docs/2step2/Description1.txt>`
+        * Cost Matrix File :download:`txt <docs/2step2/CostMatrix3x2.txt>`
+        * Test Input File :download:`inp <docs/2step2/test1.inp>`
+        * Training Data File :download:`csv <docs/2step2/Test.csv>`
+
 
 Protocol:
 
