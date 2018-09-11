@@ -117,32 +117,101 @@ ANS-PNS Plane
 
 This measure calculates the angle of the nasal spine from a horizontal plane through the imaging scan.
 
+.. figure:: docs/ANSPNS.PNG
+       :scale: 75%
+       :alt: This figure provides visual example of the ANS-PNS plane angle.
+
 
 Maxillo-Pharyngeal Angle
 ++++++++++++++++++++++++
 
 This measure calculates the angle from the posterior nasal spine to the anterior tubercle of C1 to the anterior inferior point of C2.
 
+.. figure:: docs/MP.PNG
+       :scale: 75%
+       :alt: This figure provides visual example of the MP angle.
 
 Modified Bhalala head tilt angle
 ++++++++++++++++++++++++++++++++
 
 In Bhalala et al., 2016 the head tilt angle used connected the occipito-ophisthion line and the ophisthion-C7 spinious process line, however due to the restricted field of view in many retrospective scans, which cut off the occiput landmark this protocol modified the angle to the posterior nasal spine.  The modified angle is comparable dur to structural connection of the cranium with limited change in the relationship of the occiput to the PNS.
 
+.. figure:: docs/Bhalala.PNG
+        :scale: 75%
+        :alt: This figure provides visual example of the modified Bhalala angle.
+
 
 Neck Measures
 _____________
 
 
-Antero-Posterior Ratio
-++++++++++++++++++++++
+Antero-Posterior Measures
++++++++++++++++++++++++++
+
+There are two measures that use the C2-C7 anterior and posterior distances.
+
+.. figure:: docs/APDist.PNG
+       :scale: 75%
+       :alt: This figure provides visual example of the Anterior and Posterior distances.
+
+Antero-Posterior Distance Ratio
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 The ratio of the anterior to the posterior length from the inferior borders of C2 to C7.
 
 
 Antero-Porsterio Distance Difference
-++++++++++++++++++++++++++++++++++++
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The difference between the anterior and posterior lengths from the inferior borders of C2 to C7.
+
+
+Various Lower Cervical Spine Angle
+++++++++++++++++++++++++++++++++++
+
+The lower cervical spine has been measured using various combinations of landmarks.  This protocol includes five variations allowing the complexity of neck mobility to be assessed. Each variation is calculated at the angle of intersection with the ANS-PNS plane.
+
+Posterior inferior to Posterior Superior of C7
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+.. figure:: docs/C7PS.PNG
+	:scale: 75%
+	:alt: This figure provides visual example of the C7 PI-PS angle.
+
+Posterior inferior C7 to C6
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+.. figure:: docs/C76i.PNG
+	:scale: 75%
+	:alt: This figure provides visual example of the C7pi to C6pi angle.
+
+
+Posterior inferior C7 to C5
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+.. figure:: docs/C75i.PNG
+        :scale: 75%
+        :alt: This figure provides visual example of the C7pi to C6pi angle.
+Posterior inferior C7 to C4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+.. figure:: docs/C74i.PNG
+        :scale: 75%
+        :alt: This figure provides visual example of the C7pi to C6pi angle.
+Posterior inferior C6 to C4
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+.. figure:: docs/C64i.PNG
+        :scale: 75%
+        :alt: This figure provides visual example of the C7pi to C6pi angle.
+
+ 
+
 
 
  
