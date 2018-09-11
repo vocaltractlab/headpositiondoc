@@ -61,7 +61,7 @@ This step identified extended cases using the GUIDE forest method.  This step pr
 
 Download the following files:
         * Descriptive File :download:`txt <docs/2step1/Description1.txt>`
-        * Cost Matrix File :download:`txt <docs/2step1/CostMatrix3x2.txt>`
+        * Cost Matrix File :download:`txt <docs/2step1/CostMatrix3x1.txt>`
         * Test Input File :download:`inp <docs/2step1/test1.inp>`
         * Training Data File :download:`csv <docs/2step1/Test.csv>`
 
