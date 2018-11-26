@@ -1,7 +1,7 @@
 
 Protocols to Set Up for Head Position Classification
 ====================================================
-The head position protocol includes 14 landmarks. These landmarks are used to calculate 17 measurements. These 17 measures are then used in two hybrid GUIDE forest prediction models to classify head position.
+The head position protocol includes 14 landmarks. These landmarks are used to calculate 16 measurements. These 17 measures are then used in two hybrid GUIDE forest prediction models to classify head position.
 
 
 Landmarking Protocol
@@ -108,7 +108,6 @@ Measurements
 This protocol utilizes 17 measurements to quantify head position.  These measure assess both the face plane and the neck position inorder to predict if a image is in a flexed, neutral, or extended position. 
 
 
-
 Head Measures or Face Plane Measures
 ____________________________________
 
@@ -130,6 +129,17 @@ This measure calculates the angle from the posterior nasal spine to the anterior
 .. figure:: docs/MP.PNG
        :scale: 75%
        :alt: This figure provides visual example of the MP angle.
+
+
+C2 Angle
+++++++++
+
+This measure calculates the angle between the ANS-PNS plane and the posterior margin of C2.
+
+.. figure:: docs/C2.PNG
+	:scale: 75%
+	:alt: This figure provides visual example of the C2 angle.
+
 
 Modified Bhalala head tilt angle
 ++++++++++++++++++++++++++++++++
@@ -179,6 +189,7 @@ Posterior inferior to Posterior Superior of C7
 	:scale: 75%
 	:alt: This figure provides visual example of the C7 PI-PS angle.
 
+
 Posterior inferior C7 to C6
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -195,6 +206,8 @@ Posterior inferior C7 to C5
 .. figure:: docs/C75i.PNG
         :scale: 75%
         :alt: This figure provides visual example of the C7pi to C6pi angle.
+
+
 Posterior inferior C7 to C4
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -202,6 +215,8 @@ Posterior inferior C7 to C4
 .. figure:: docs/C74i.PNG
         :scale: 75%
         :alt: This figure provides visual example of the C7pi to C6pi angle.
+
+
 Posterior inferior C6 to C4
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -212,8 +227,41 @@ Posterior inferior C6 to C4
 
  
 
+Upper and lower cervical spine difference
+_________________________________________
 
 
- 
+The change in angles along the cervical spine assist with determining the neck position.  Following are multiple angle difference measures.
+
+
+C2 versus C7pi-C7ps difference
+++++++++++++++++++++++++++++++
+
+This measure calculates the difference between the C2 angle and C7pi-C7ps angle.
+
+
+C2 versus C7pi-C6pi difference
+++++++++++++++++++++++++++++++
+
+This measure calculates the difference between the C2 angle and C7pi-C6pi angle.
+
+
+C2 versus C7pi-C5pi difference
+++++++++++++++++++++++++++++++
+
+This measure calculates the difference between the C2 angle and C7pi-C5pi angle.
+
+
+C2 versus C7pi-C4pi difference
+++++++++++++++++++++++++++++++
+
+This measure calculates the difference between the C2 angle and C7pi-C4pi angle.
+
+
+C2 versus C6pi-C4pi difference
+++++++++++++++++++++++++++++++
+
+This measure calculates the difference between the C2 angle and C6pi-C4pi angle.
+
 
 
