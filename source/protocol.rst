@@ -18,7 +18,7 @@ __________________________
 
 This landmark is placed at the most anterior point of the nasal spine.
 
-.. figure:: docs/ANS.JPEG
+.. figure:: docs/ANS.JPG
      :scale: 75%
      :alt: This figure provides visual example of the placement of the ANS landmark.
 
@@ -28,7 +28,7 @@ ___________________________
 
 This landmark is placed at the most posterior point of the nasal spine.
 
-.. figure:: docs/PNS.JPEG
+.. figure:: docs/PNS.JPG
      :scale: 75%
      :alt: This figure provides visual example of the placement of the PNS landmark.
 
@@ -38,7 +38,7 @@ _________
 
 This landmark is placed at the most anterior-interior point on the posterior margin of the foramen magnum.
 
-.. figure:: docs/OPI.JPEG
+.. figure:: docs/OPI.JPG
      :scale: 75%
      :alt: This figure provides visual example of the placement of the OPI landmark.
 
@@ -48,7 +48,7 @@ ______________________________
 
 This landmark is placed at the most posterior point on the spinous process of C7. In the case of bifid spinous processes, the landmark should be placed on the midpoint of where the two sides deviate, instead of the exact most posterior point.
 
-.. figure:: docs/SpPro7.JPEG
+.. figure:: docs/SpPro7.JPG
       :scale: 75%
       :alt: This figure provides visual example of the placement of the SpPro7 landmark.
 
@@ -58,7 +58,7 @@ __________________________________________
 
 This landmark is placed at the most posterior and superior corner of the apex at the anatomical midline of the odontoid. This landmark should be placed at the superior corner of the posterior border of C2.
 
-.. figure:: docs/PSA.JPEG
+.. figure:: docs/PSA.JPG
       :scale: 75%
       :alt: This figure provides visual example of the placement of the PSA landmark.
 
@@ -68,7 +68,7 @@ ________________________________
 
 This landmark is placed at the most medio-anterior point of C1 denoting the anterior tubercle of the atlas, C1.
 
-.. figure:: docs/AT1.JPEG
+.. figure:: docs/AT1.JPG
       :scale: 75%
       :alt: This figure provides visual example of the placement of the AT1 landmark.
 
