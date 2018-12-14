@@ -1,7 +1,7 @@
 
 Protocols to Set Up for Head Position Classification
 ====================================================
-The head position protocol includes 14 landmarks. These landmarks are used to calculate 16 measurements. These 17 measures are then used in two hybrid GUIDE forest prediction models to classify head position.
+The head position protocol includes 14 landmarks. These landmarks are used to calculate 17 measurements. These 17 measures are then used in two hybrid GUIDE forest prediction models to classify head position.
 
 
 Landmarking Protocol
@@ -114,7 +114,7 @@ ____________________________________
 ANS-PNS Plane
 +++++++++++++
 
-This measure calculates the angle of the nasal spine from a horizontal plane through the imaging scan.
+The angle of the nasal spine plane defined by the anterior nasal spine (ANS, 1) and the posterior nasal spine (PNS, 2) landmarks subtended with the horizontal plane of the imaging study.
 
 .. figure:: docs/ANSPNS.PNG
        :scale: 75%
@@ -124,7 +124,7 @@ This measure calculates the angle of the nasal spine from a horizontal plane thr
 Maxillo-Pharyngeal Angle
 ++++++++++++++++++++++++
 
-This measure calculates the angle from the posterior nasal spine to the anterior tubercle of C1 to the anterior inferior point of C2.
+The angle of intersection between the PNS (2) - anterior tubercle of C1 (AT1, 6) line and the AT1 (6) - anterior inferior point of C2 (C2ai, 13) line.
 
 .. figure:: docs/MP.PNG
        :scale: 75%
@@ -134,7 +134,7 @@ This measure calculates the angle from the posterior nasal spine to the anterior
 C2 Angle
 ++++++++
 
-This measure calculates the angle between the ANS-PNS plane and the posterior margin of C2.
+The angle of intersection between the posterior border of C2 (C2pi, 7; PSA, 5) line and the ANS (1) - PNS (2) plane.
 
 .. figure:: docs/C2.PNG
 	:scale: 75%
@@ -144,7 +144,7 @@ This measure calculates the angle between the ANS-PNS plane and the posterior ma
 Modified Bhalala head tilt angle
 ++++++++++++++++++++++++++++++++
 
-In Bhalala et al., 2016 the head tilt angle used connected the occipito-ophisthion line and the ophisthion-C7 spinious process line, however due to the restricted field of view in many retrospective scans, which cut off the occiput landmark this protocol modified the angle to the posterior nasal spine.  The modified angle is comparable dur to structural connection of the cranium with limited change in the relationship of the occiput to the PNS.
+The angle of intersection between the PNS (2) - opisthion (OPI, 3) line and the OPI (3) - C7 spinous process (SpPro7, 4) line.
 
 .. figure:: docs/Bhalala.PNG
         :scale: 75%
@@ -158,7 +158,7 @@ _____________
 Antero-Posterior Measures
 +++++++++++++++++++++++++
 
-There are two measures that use the C2-C7 anterior and posterior distances.
+The anterior and posterior distances are calculated between the inferior landmarks of C2 to C7 and used for two of the head position measures.
 
 .. figure:: docs/APDist.PNG
        :scale: 75%
@@ -167,59 +167,60 @@ There are two measures that use the C2-C7 anterior and posterior distances.
 Antero-Posterior Distance Ratio
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The ratio of the anterior to the posterior length from the inferior borders of C2 to C7.
+The ratio of the anterior to the posterior distances from the inferior borders of C2 to C7.
 
 
 Antero-Porsterio Distance Difference
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The difference between the anterior and posterior lengths from the inferior borders of C2 to C7.
+The difference between the anterior and posterior distances from the inferior borders of C2 to C7.
 
 
 Various Lower Cervical Spine Angle
 ++++++++++++++++++++++++++++++++++
 
-The lower cervical spine has been measured using various combinations of landmarks.  This protocol includes five variations allowing the complexity of neck mobility to be assessed. Each variation is calculated at the angle of intersection with the ANS-PNS plane.
+The lower cervical spine has been measured using various combinations of landmarks.  This protocol includes five variations allowing the complexity of neck mobility to be assessed. Each variation is calculated at the angle of intersection between the ANS-PNS plane with the posterior boarder of the cervical vertebrae defined as follows:
 
-Posterior inferior to Posterior Superior of C7
+
+C7 angle
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
+For this variation the posterior border is defined by the posterior inferior of C7 to the posterior superior of C7.
 
 .. figure:: docs/C7PS.PNG
 	:scale: 75%
 	:alt: This figure provides visual example of the C7 PI-PS angle.
 
 
-Posterior inferior C7 to C6
+C7-C6 angle
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
+For this variation the posterior border is defined by the posterior inferior of C7 to the posterior inferior of C6.
 
 .. figure:: docs/C76i.PNG
 	:scale: 75%
 	:alt: This figure provides visual example of the C7pi to C6pi angle.
 
 
-Posterior inferior C7 to C5
+C7-C5 angle
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
+For this variation the posterior border is defined by the posterior inferior of C7 to the posterior inferior of C5.
 
 .. figure:: docs/C75i.PNG
         :scale: 75%
         :alt: This figure provides visual example of the C7pi to C6pi angle.
 
 
-Posterior inferior C7 to C4
+C7-C4 angle
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
+For this variation the posterior border is defined by the posterior inferior of C7 to the posterior inferior of C4.
 
 .. figure:: docs/C74i.PNG
         :scale: 75%
         :alt: This figure provides visual example of the C7pi to C6pi angle.
 
 
-Posterior inferior C6 to C4
+C6-C4 angle
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
+For this variation the posterior border is defined by the posterior inferior of C6 to the posterior inferior of C4.
 
 .. figure:: docs/C64i.PNG
         :scale: 75%
@@ -234,34 +235,33 @@ _________________________________________
 The change in angles along the cervical spine assist with determining the neck position.  Following are multiple angle difference measures.
 
 
-C2 versus C7pi-C7ps difference
+C2vC7 difference
 ++++++++++++++++++++++++++++++
 
 This measure calculates the difference between the C2 angle and C7pi-C7ps angle.
 
 
-C2 versus C7pi-C6pi difference
+C2vC7-C6 difference
 ++++++++++++++++++++++++++++++
 
 This measure calculates the difference between the C2 angle and C7pi-C6pi angle.
 
 
-C2 versus C7pi-C5pi difference
+C2vC7-C5 difference
 ++++++++++++++++++++++++++++++
 
 This measure calculates the difference between the C2 angle and C7pi-C5pi angle.
 
 
-C2 versus C7pi-C4pi difference
+C2vC7-C4 difference
 ++++++++++++++++++++++++++++++
 
 This measure calculates the difference between the C2 angle and C7pi-C4pi angle.
 
 
-C2 versus C6pi-C4pi difference
+C2vC6-C4 difference
 ++++++++++++++++++++++++++++++
 
 This measure calculates the difference between the C2 angle and C6pi-C4pi angle.
-
 
 
