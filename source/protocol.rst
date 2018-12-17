@@ -78,9 +78,34 @@ ___________________________________________
 
 For C2 and C4 to C7, place the landmarks on each vertebrae at the most posterior and inferior point of the vertebral body in the anatomical midsagittal plane of the respective vertebral body.
 
-.. figure:: docs/PI.PNG
+C2
+++
+.. figure:: docs/C2pi.JPG
        :scale: 75%
-       :alt: This figure provides visual example of the placement of the PI landmarks.
+       :alt: This figure provides visual example of the placement of the C2pi landmarks.
+
+C4
+++
+.. figure:: docs/C4pi.JPG
+	:scale: 75%
+	:alt: This figure provides visual example of the placement of the C4pi landmark.
+C5
+++
+.. figure:: docs/C5pi.JPG
+	:scale: 75%
+	:alt: This figure provides visual example of the placement of the C5pi landmark.
+
+C6
+++
+.. figure:: docs/C6pi.JPG
+	:scale: 75%
+	:alt: This figure provides visual example of the placement of the C6pi landmark.
+
+C7
+++
+.. figure:: docs/C7pi.JPG
+	:scale: 75%
+	:alt: This figure provides visual example of the placement of the C7pi landmark.
 
 
 12. Posterior Superior Margin of C7 vertebral body
@@ -88,18 +113,28 @@ ______________________________________________
 
 This landmark is placed at the most posterior and superior point on C7 vertebral body in the anatomical midsagittal plane of the vertebral body.
 
-.. figure:: docs/PS.PNG
+C7
+++
+.. figure:: docs/C7ps.JPG
        :scale: 75%
-       :alt: This figure provides visual example of the placement of the PS landmark.
+       :alt: This figure provides visual example of the placement of the C7ps landmark.
 
 13-14. Anterior Inferior Margin of C2 and C7 vertebral bodies
 ______________________________________________________
 
 For C2 and C7, place the landmarks on each vertebrae at the most anterior and inferior point of the vertebral body in the anatomical midsagittal plane of the respective vertebral body.
 
-.. figure:: docs/AI.PNG
+C2
+++
+.. figure:: docs/C2ai.JPG
        :scale: 75%
-       :alt: This figure provides visual example of the placement of the AI landmark.
+       :alt: This figure provides visual example of the placement of the C2ai landmark.
+
+C7
+++
+.. figure:: docs/C7ai.JPG
+	:scale: 75%
+	:alt: This figure provides visual example of the placement of the C7ai landmark.
 
 
 Measurements
@@ -131,16 +166,6 @@ The angle of intersection between the PNS (2) - anterior tubercle of C1 (AT1, 6)
        :alt: This figure provides visual example of the MP angle.
 
 
-V7. C2 Angle
-++++++++
-
-The angle of intersection between the posterior border of C2 (7,5) line and the ANS (1) - PNS (2) plane.
-
-.. figure:: docs/C2.PNG
-	:scale: 75%
-	:alt: This figure provides visual example of the C2 angle.
-
-
 V5. Modified Bhalala head tilt angle
 ++++++++++++++++++++++++++++++++
 
@@ -149,6 +174,16 @@ The angle of intersection between the PNS (2) - opisthion (OPI, 3) line and the 
 .. figure:: docs/Bhalala.PNG
         :scale: 75%
         :alt: This figure provides visual example of the modified Bhalala angle.
+
+V7. C2 Angle
+++++++++++++
+
+The angle of intersection between the posterior border of C2 (7,5) line and the ANS (1) - PNS (2) plane.
+
+.. figure:: docs/C2.PNG
+	:scale: 75%
+	:alt: This figure provides visual example of the C2 angle.
+
 
 
 Neck Measures
@@ -181,6 +216,13 @@ Various Lower Cervical Spine Angle
 
 The lower cervical spine has been measured using various combinations of landmarks.  This protocol includes five variations allowing the complexity of neck mobility to be assessed. Each variation is calculated at the angle of intersection between the ANS (1) - PNS (2) plane with the posterior boarder of the cervical vertebrae defined as follows:
 
+V8. C6-C4 angle
+~~~~~~~~~~~~~~~~
+For this variation the posterior border is defined by the posterior inferior of C6 (10) to the posterior inferior of C4 (8).
+
+.. figure:: docs/C64i.PNG
+	:scale: 75%
+	:alt: This figure provides visual example of the C7pi to C6pi angle.
 
 V9. C7 angle
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -219,50 +261,40 @@ For this variation the posterior border is defined by the posterior inferior of 
         :alt: This figure provides visual example of the C7pi to C6pi angle.
 
 
-V8. C6-C4 angle
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
-For this variation the posterior border is defined by the posterior inferior of C6 (10) to the posterior inferior of C4 (8).
-
-.. figure:: docs/C64i.PNG
-        :scale: 75%
-        :alt: This figure provides visual example of the C7pi to C6pi angle.
-
- 
 
 Upper and lower cervical spine difference
-_________________________________________
++++++++++++++++++++++++++++++++++++++++++
 
 
 The change in angles along the cervical spine assist with determining the neck position.  Following are multiple angle difference measures.
 
+V13. C2 v C6-C4 difference
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+This measure calculates the difference between the C2 angle (V7) and the C6-C4 angle (V8).
 
 V14. C2vC7 difference
-++++++++++++++++++++++++++++++
+~~~~~~~~~~~~~~~~~~~~~
 
 This measure calculates the difference between the C2 angle (V7) and C7 angle (V9).
 
 
 V15. C2vC7-C6 difference
-++++++++++++++++++++++++++++++
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 This measure calculates the difference between the C2 angle (V7) and C7-C6 angle (V10).
 
 
 V16. C2vC7-C5 difference
-++++++++++++++++++++++++++++++
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 This measure calculates the difference between the C2 angle (V7) and C7-C5 angle (V11).
 
 
 V17. C2vC7-C4 difference
-++++++++++++++++++++++++++++++
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 This measure calculates the difference between the C2 angle (V7) and C7-C4 angle (V12).
 
 
-V13. C2vC6-C4 difference
-++++++++++++++++++++++++++++++
-
-This measure calculates the difference between the C2 angle (V7) and C6-C4 angle (V8).
 
 

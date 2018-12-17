@@ -36,12 +36,18 @@ Protocol:
                * If you rerun this step, the “predict1.txt” file will be overwritten, therefore remember to rename the file if you want to save the predictive results.
 
 
-Head Position Model One
-+++++++++++++++++++++++
+Head Position Protocol
+++++++++++++++++++++++
 
 .. figure:: docs/Protocol map.JPG
 	:scale: 75%
 	:alt: This figure shows the process map for both models of the head position protocol.
+
+Above is the protocol process map using two hybrid predictive models.  
+
+
+Model One
++++++++++
 
 Step One
 ~~~~~~~~
@@ -61,8 +67,8 @@ Download the following files:
 	* Training Data File :download:`csv <docs/step1/Test.csv>`
 
 
-Head Position Model Two
-+++++++++++++++++++++++
+Model Two
++++++++++
 
 
 
