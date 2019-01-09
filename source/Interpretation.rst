@@ -1,3 +1,24 @@
+Interpretation of Prediction Model
+==================================
+
+Each predictive model will predict categories as neutral, flexion, and extension as well as confidence scores.
+
+Prediction Agreement
+--------------------
+
+When the prediction of both models agree the imaging study can be categorized as predicted by the models.
+	Imaging studies should be reviewed if both models have confidence scores that are less than 0.64 for neutral or less than 0.3 for flexion or extension. Imaging studies should be classified as extreme if both models predict flexion or extension with confidence scores greater than 0.6
+
+Prediction Disagreement
+-----------------------
+
+When the predictions between the models disagree the following guidelines have been developed.
+
+Step One - 
+	Review the confidence scores for the imaging studies that had disagreement between prediction models.
+		* 
+
+
 Visual Assessment Protocol
 ==========================
 
