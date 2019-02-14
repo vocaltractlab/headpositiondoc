@@ -9,8 +9,10 @@ Landmarking Protocol
 Each landmark is placed in the anatomical midsagittal plan allowing for the measurements to be calculated in 3D.
 
 .. figure:: docs/landmarkHP.PNG
-    :scale: 75%
-    :alt: This figure identifies all landmarks necessary to classify head position. All landmarks should be placed in the anatomical midsagittal plane rather than the scan midsagittal plane. 
+    :width: 200px
+    :align: left
+    :height: 100px 
+	This figure identifies all landmarks necessary to classify head position. All landmarks should be placed in the anatomical midsagittal plane rather than the scan midsagittal plane. 
 
 
 1. Anterior Nasal Spine (ANS)
