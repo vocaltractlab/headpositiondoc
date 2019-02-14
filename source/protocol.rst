@@ -9,9 +9,12 @@ Landmarking Protocol
 Each landmark is placed in the anatomical midsagittal plan allowing for the measurements to be calculated in 3D.
 
 .. figure:: docs/landmarkHP.PNG
-    :width: 200px
-    :align: left
-    :height: 100px 
+	:width: 200px
+	:align: left
+	:height: 100px 
+	:alt: alternate text
+	:figclass: align-center
+
 	This figure identifies all landmarks necessary to classify head position. All landmarks should be placed in the anatomical midsagittal plane rather than the scan midsagittal plane. 
 
 
