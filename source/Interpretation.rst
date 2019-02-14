@@ -62,7 +62,7 @@ Neutral - Flexion
 
 These scans are complex with two potential positions that can be classified into this group. The scan would be in a flexed neck and a neutral face plane or a neutral neck and a flexed face plane. These cases in 3D will look close to neutral.
 
-.. figure:: docs/NeitralFlexion.JPG
+.. figure:: docs/NeutralFlexion.JPG
 	:scale: 75%
 	:alt: Neutral-Flexion head position shown in multiplanar and 3D rendering of CT scan.
 
