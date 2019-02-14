@@ -1,22 +1,28 @@
 Interpretation of Prediction Model
 ==================================
 
-Each predictive model will predict categories as neutral, flexion, and extension as well as confidence scores.
+Each of the two models that are used in the head position protocol provide confidence scores for neutral, flexion, and extension. These confidence scores can be used to assist classifying borderline positions and extreme positions.
 
 Prediction Agreement
 --------------------
 
-When the prediction of both models agree the imaging study can be categorized as predicted by the models.
-	Imaging studies should be reviewed if both models have confidence scores that are less than 0.64 for neutral or less than 0.3 for flexion or extension. Imaging studies should be classified as extreme if both models predict flexion or extension with confidence scores greater than 0.6
+When the prediction of both models agree on the classification an imaging study can be categorized as the predictedposition.
+	* Imaging studies should be reviewed if both models predict neutral but have confidence scores that are less than 0.64 or predict flexion or extension but have confidence scores that are less than 0.3. Imaging studies should be classified as extreme if both models predict flexion or extension with confidence scores greater than 0.6.
 
 Prediction Disagreement
 -----------------------
 
-When the predictions between the models disagree the following guidelines have been developed.
+When the predictions between the models disagree the following guidelines have been developed to help classify imaging studies into one of the six categories: flexion, neutral-flexion, neutral, neutral-extension, extension,  or flexion-extension.
 
 Step One - 
-	Review the confidence scores for the imaging studies that had disagreement between prediction models.
-		* 
+	* Review the confidence scores and classify the prediction for each model for the imaging studies that had disagreement between prediction models.
+		* For neutral > 0.8 is very confident, 0.8 - 0.7 is confident, and 0.7 - 0.6 is good
+		* For flexion or extention > 0.5 is very confident, 0.5 - 0.4 is confident, and 0.4 - 0.3 is good
+
+Step Two - 
+	* Review the confidence score classifications for both models.
+		* If one or both predictions have good classification scores the imaging study should be visually assessed.
+		* If both predictions have very confident or confident classification scores the imaging study should be classified as a borderline case based on the prediction (If model one predicts neutral and model two predicts extension the final classification should be neutral-extension) 
 
 
 Visual Assessment Protocol
