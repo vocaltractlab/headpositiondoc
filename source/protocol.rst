@@ -8,8 +8,9 @@ Landmarking Protocol
 --------------------
 Each landmark is placed in the anatomical midsagittal plan allowing for the measurements to be calculated in 3D.
 
-.. figure:: docs/landmarkHP.PNG
-	:scale: 50% 
+.. figure:: docs/landmarkHP.PNGu
+	:width:  500px
+	:height: 485px
 	:alt: alternate text
 	:figclass: align-center
 
