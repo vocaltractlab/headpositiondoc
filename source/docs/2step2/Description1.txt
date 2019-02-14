@@ -28,7 +28,7 @@ NA
 25 PI5diff n
 26 PS7diff n
 27 PI4_6diff n
-28 APRatio x
+28 APRatio n
 29 ANSPNS_Plane n
 30 Answer x
 31 TestSet x

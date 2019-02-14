@@ -6,6 +6,13 @@ Head Position Protocol
 GUIDE Forest 
 ---------------
 
+.. figure:: docs/Protocolmap.JPG
+	:scale: 75%
+	:alt: This figure shows the process map for both models of the head position protocol.
+
+Above is the protocol process map dipicting the two hybrid predictive models.
+
+
 Download Algorithm
 __________________
 
@@ -36,27 +43,18 @@ Protocol:
                * If you rerun this step, the “predict1.txt” file will be overwritten, therefore remember to rename the file if you want to save the predictive results.
 
 
-Head Position Protocol
-++++++++++++++++++++++
-
-.. figure:: docs/Protocol map.JPG
-	:scale: 75%
-	:alt: This figure shows the process map for both models of the head position protocol.
-
-Above is the protocol process map using two hybrid predictive models.  
-
 
 Model One
-+++++++++
+---------
 
 Step One
-~~~~~~~~
+________
 
 This Step identifies extended cases using the C7 PS to PI angle.  Identify all cases that have the C7 PS to PI angle greater than 118.425. These cases should be classified as extended and removed from the dataset before proceeding to step two.
 
 
 Step Two
-~~~~~~~~
+________
 
 This step identifies the remaing case as either flexed, neutral or extended using the GUIDE forest algorithm. Follow the protocol to run GUIDE Forest using the following files.
 
@@ -68,12 +66,12 @@ Download the following files:
 
 
 Model Two
-+++++++++
+---------
 
 
 
 Step One
-~~~~~~~~
+________
 
 This step identified extended cases using the GUIDE forest method.  This step provides a yes or no answer whether each case is in extended or in another position. The cases which have an output of yes should be identified as extended and removed from the dataset before proceeding to step two. Follow the protocol to run GUIDE Forest using the following files. 
 
@@ -85,7 +83,7 @@ Download the following files:
 
 
 Step Two
-~~~~~~~~
+________
 
 This step identifies the remaining cases as either flexed, neutral, or extended using the GUIDE forest algorithm. Follow the protocol to run GUIDE Forest using the following files.
 

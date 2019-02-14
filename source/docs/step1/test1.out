@@ -1,0 +1,96 @@
+             GGG   U   U  I  DDDD   EEEE
+            G   G  U   U  I  D   D  E
+            G      U   U  I  D   D  E
+            G  GG  U   U  I  D   D  EEE
+            G   G  U   U  I  D   D  E
+            G   G  U   U  I  D   D  E
+             GGG    UUU   I  DDDD   EEEE
+   
+ GUIDE Classification and Regression Trees and Forests
+ Compiled with Absoft Pro Fortran 17.0.1 on Windows 10 Pro
+ Version 26.0 (Build date: June 1, 2017)           
+ Copyright (c) 1997-2017 Wei-Yin Loh. All rights reserved.
+ This software is based upon work supported by the U.S. Army Research Office,
+ the National Science Foundation and the National Institutes of Health.
+  
+ This job was started on: 09/11/18 at 13:13
+  
+ Random forest of classification trees
+ with random division of missing values
+ No pruning
+ Data description file: description1.txt
+ Training sample file: Test.csv
+ Missing value code: NA
+ Records in data file start on line 2
+ Warning: N variables changed to S
+ Dependent variable is Position
+ Number of records in data file: 54
+ Length of longest data entry: 14
+ Number of classes: 3
+ Class proportions of dependent variable Position:
+     Class      #Cases    Proportion
+ Extension           1    0.04000000
+ Flexion             6    0.24000000
+ Neutral            18    0.72000000
+  
+ Summary information (without x variables)
+ d=dependent, b=split and fit cat variable using 0-1 dummies,
+ c=split-only categorical, n=split and fit numerical, f=fit-only numerical,
+ s=split-only numerical, w=weight
+  Column  Name                 Minimum      Maximum   #Categories       #Missing
+       9  Position        d                                     3            29
+      11  ModBhalala      s   7.6839E+01   1.3611E+02                          2
+      14  APDifference    s  -8.7351E+00   5.5567E+00
+      15  MP              s   7.6319E+01   1.1679E+02
+      16  Cobbs           s   2.0342E+00   3.2028E+01
+      17  C2              s   6.8579E+01   1.1310E+02
+      18  C7_PI6_PI7      s   6.2970E+01   1.4294E+02
+      19  C2C7Difference  s  -4.7326E+01   2.4993E+01
+      20  C7_PI4_PI7      s   6.9846E+01   1.4319E+02
+      21  C7_PI5_PI7      s   6.6880E+01   1.4407E+02
+      22  C7_PS7_PI7      s   6.4749E+01   1.3838E+02
+      23  C6_PI4_PI6      s   6.9339E+01   1.4328E+02
+      24  PI4diff         s  -3.0087E+01   1.8117E+01
+      25  PI5diff         s  -3.0963E+01   2.1084E+01
+      26  PS7diff         s  -2.5280E+01   2.4771E+01
+      27  PI4_6diff       s  -3.0177E+01   1.4604E+01
+      28  APRatio         s   9.0252E-01   1.0654E+00
+      29  ANSPNS_Plane    s  -2.5868E+01   2.8566E+01
+  
+      Total  #cases w/   #missing
+     #cases    miss. D  ord. vals   #X-var   #N-var   #F-var   #S-var   #B-var   #C-var
+         54         29         29       13        0        0       17        0        0
+ No. cases used for training: 25
+ No. cases excluded due to 0 weight or missing D: 29
+  
+ Univariate split highest priority
+ No interaction and linear splits
+ Number of trees in ensemble: 500
+ Number of variables used for splitting: 6
+ Simple node models
+ Equal priors
+ Misclassification cost matrix from file CostMatrix3x2.txt:
+  Predicted    True class
+            Extension  Flexion    Neutral   
+ Extension   0.000E+00  1.000E+00  1.000E+00
+ Flexion     1.000E+00  0.000E+00  1.000E+00
+ Neutral     2.000E+00  2.000E+00  0.000E+00
+ Fraction of cases used for splitting each node:   1.0000    
+ Max. number of split levels: 10
+ Min. node sample size: 5
+ Mean number of terminal nodes:    2.596    
+ 
+ Classification matrix for training sample:
+ Predicted       True class
+class      Extension   Flexion   Neutral
+ Extension          0         0         4
+ Flexion            0         6         5
+ Neutral            1         0         9
+ Total              1         6        18
+ 
+ Number of cases used for tree construction: 25
+ Number misclassified: 10
+ Resubstitution est. of mean misclassification cost:   0.8333    
+ 
+ Predicted class probabilities are stored in predict1.txt
+ Elapsed time in seconds:   0.187201
