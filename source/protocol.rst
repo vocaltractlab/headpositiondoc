@@ -9,7 +9,6 @@ Landmarking Protocol
 Each landmark is placed in the anatomical midsagittal plan allowing for the measurements to be calculated in 3D.
 
 .. figure:: docs/landmarkHP.PNG
-	:align: left
 	:scale: 50% 
 	:alt: alternate text
 	:figclass: align-center
@@ -23,8 +22,11 @@ __________________________
 This landmark is placed at the most anterior point of the nasal spine.
 
 .. figure:: docs/ANS.JPG
-     :scale: 50%
-     :alt: This figure provides visual example of the placement of the ANS landmark.
+	:scale: 50%
+	:alt: alternate text
+	:figclass: align-center
+ 
+	This figure provides visual example of the placement of the ANS landmark.
 
 
 2. Posterior Nasal Spine (PNS)
@@ -34,7 +36,10 @@ This landmark is placed at the most posterior point of the nasal spine.
 
 .. figure:: docs/PNS.JPG
      :scale: 50%
-     :alt: This figure provides visual example of the placement of the PNS landmark.
+     :alt: alternate text
+	:figclass: align-center 
+	
+	This figure provides visual example of the placement of the PNS landmark.
 
 
 3. Opisthion
@@ -44,7 +49,10 @@ This landmark is placed at the most anterior-interior point on the posterior mar
 
 .. figure:: docs/OPI.JPG
      :scale: 50%
-     :alt: This figure provides visual example of the placement of the OPI landmark.
+     :alt: alternate text
+	:figclass: align-center 
+
+	This figure provides visual example of the placement of the OPI landmark.
 
 
 4. Spinous Process of C7 (SpPro7)
@@ -54,7 +62,10 @@ This landmark is placed at the most posterior point on the spinous process of C7
 
 .. figure:: docs/SpPro7.JPG
       :scale: 50%
-      :alt: This figure provides visual example of the placement of the SpPro7 landmark.
+      :alt: alternate text
+	:figclass: align-center
+
+	This figure provides visual example of the placement of the SpPro7 landmark.
 
 
 5. Posterior Superior corner of C2 Apex (PSA)
@@ -64,7 +75,10 @@ This landmark is placed at the most posterior and superior corner of the apex at
 
 .. figure:: docs/PSA.JPG
       :scale: 50%
-      :alt: This figure provides visual example of the placement of the PSA landmark.
+      :alt: alternate text 
+	:figclass: align-center
+
+	This figure provides visual example of the placement of the PSA landmark.
 
 
 6. Anterior Tubercle of Atlas (AT1)
@@ -74,7 +88,10 @@ This landmark is placed at the most medio-anterior point of C1 denoting the ante
 
 .. figure:: docs/AT1.JPG
       :scale: 50%
-      :alt: This figure provides visual example of the placement of the AT1 landmark.
+      :alt: alternate text 
+	:figclass: align-center
+
+	This figure provides visual example of the placement of the AT1 landmark.
 
 
 7-11. Posterior Inferior Margin of vertebral body
