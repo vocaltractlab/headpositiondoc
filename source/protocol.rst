@@ -8,7 +8,7 @@ Landmarking Protocol
 --------------------
 
 .. figure:: docs/landmarkHP.PNGu
-	:scale: 67%
+	:scale: 53%
 	:alt: This figure visualizes all landmarks necessary to classify head position.
 	:figclass: align-center
 
@@ -19,7 +19,7 @@ Landmarking Protocol
 _____________________________
 
 .. figure:: docs/ANS.JPG
-	:scale: 50%
+	:scale: 40%
 	:alt: This figure provides a visual example of the placement of the anterior nasal spine landmark.
 	:figclass: align-center
  
@@ -31,7 +31,7 @@ ______________________________
 
 
 .. figure:: docs/PNS.JPG
-	:scale: 50%
+	:scale: 40%
 	:alt: This figure provides a visual example of the placement of the posterior nasal spine landmark.
 	:figclass: align-center 
 	
@@ -43,7 +43,7 @@ _________________
 
 
 .. figure:: docs/OPI.JPG
-	:scale: 51%
+	:scale: 40%
 	:alt: This figure provides a visual example of the placement of the opithion landmark.
 	:figclass: align-center 
 
@@ -55,7 +55,7 @@ ______________________________
 
 
 .. figure:: docs/SpPro7.JPG
-	:scale: 56%
+	:scale: 45%
 	:alt: This figure provides a visual example of the placement of the spinour process of C7 landmark.
 	:figclass: align-center
 
@@ -67,7 +67,7 @@ _____________________________________________________________
 
 
 .. figure:: docs/PSA.JPG
-	:scale: 56%
+	:scale: 45%
 	:alt: This figure provides a visual example of the placement of the posterior superior apex of the axis (C2) landmark. 
 	:figclass: align-center
 
@@ -79,7 +79,7 @@ ________________________________
 
 
 .. figure:: docs/AT1.JPG
-	:scale: 57%
+	:scale: 45%
 	:alt: This figure provides visual example of the placement of the anterior tubercle of the atlas (C1). 
 	:figclass: align-center
 
@@ -94,7 +94,7 @@ For C2 and C4 to C7, place the landmarks on each vertebrae at the most posterior
 C2
 ++
 .. figure:: docs/C2pi.JPG
-	:scale: 56%
+	:scale: 45%
 	:alt: This figure provides visual example of the placement of the C2pi landmarks.
 	:figclass: align-center
 
@@ -103,7 +103,7 @@ C2
 C4
 ++
 .. figure:: docs/C4pi.JPG
-	:scale: 56%
+	:scale: 45%
 	:alt: This figure provides visual example of the placement of the C4pi landmark.
 	:figclass: align-center	
 
@@ -111,7 +111,7 @@ C4
 C5
 ++
 .. figure:: docs/C5pi.JPG
-	:scale: 56%
+	:scale: 45%
 	:alt: This figure provides visual example of the placement of the C5pi landmark.
 	:figclass: align-center
 
@@ -120,7 +120,7 @@ C5
 C6
 ++
 .. figure:: docs/C6pi.JPG
-	:scale: 57%
+	:scale: 45%
 	:alt: This figure provides visual example of the placement of the C6pi landmark.
 	:figclass: align-center
 
@@ -129,7 +129,7 @@ C6
 C7
 ++
 .. figure:: docs/C7pi.JPG
-	:scale: 57%
+	:scale: 45%
 	:alt: This figure provides visual example of the placement of the C7pi landmark.
 	:figclass: align-center
 
@@ -141,7 +141,7 @@ ______________________________________________
 
 
 .. figure:: docs/C7ps.JPG
-	:scale: 56%
+	:scale: 45%
 	:alt: This figure provides a visual example of the placement of the C7ps landmark.
 	:figclass: align-center
 
@@ -155,7 +155,7 @@ For C2 and C7, place the landmarks on each vertebrae at the most anterior and in
 C2
 ++
 .. figure:: docs/C2ai.JPG
-	:scale: 56%
+	:scale: 45%
 	:alt: This figure provides visual example of the placement of the C2ai landmark.
 	:figclass: align-center
 
@@ -164,7 +164,7 @@ C2
 C7
 ++
 .. figure:: docs/C7ai.JPG
-	:scale: 56%
+	:scale: 45%
 	:alt: This figure provides visual example of the placement of the C7ai landmark.
 	:figclass: align-center
 
@@ -182,8 +182,8 @@ ____________________________________
 V1. ANS-PNS Plane
 +++++++++++++
 
-.. figure:: docs/ANSPNS.PNG
-	:scale: 50%
+.. figure:: docs/ANSPNS.PNGq
+	:scale: 112 %
 	:alt: This figure provides visual example of the ANS-PNS plane angle.
 	:figclass: align-center
 
@@ -193,7 +193,7 @@ V2. Maxillo-Pharyngeal (MP) Angle
 ++++++++++++++++++++++++
 
 .. figure:: docs/MP.PNG
-	:scale: 50%
+	:scale: 76%
 	:alt: This figure provides visual example of the MP angle.
 	:figclass: align-center
 
@@ -203,7 +203,7 @@ V5. Modified Bhalala head tilt angle
 ++++++++++++++++++++++++++++++++
 
 .. figure:: docs/Bhalala.PNG
-	:scale: 50%
+	:scale: 72%
         :alt: This figure provides visual example of the modified Bhalala angle.
 	:figclass: align-center
 
@@ -213,7 +213,7 @@ V7. C2 Angle
 ++++++++++++
 
 .. figure:: docs/C2.PNG
-	:scale: 50%
+	:scale: 74%
 	:alt: This figure provides visual example of the C2 angle.
 	:figclass: align-center
 
@@ -230,7 +230,7 @@ Antero-Posterior Measures
 The anterior and posterior distances are calculated between the inferior landmarks of C2 to C7 and used for two of the head position measures.
 
 .. figure:: docs/APDist.PNG
-	:scale: 50%
+	:scale: 109%
 	:alt: This figure provides visual example of the Anterior and Posterior distances.
 	:align: center
 
@@ -255,7 +255,7 @@ V8. C6-C4 angle
 ~~~~~~~~~~~~~~~~
 
 .. figure:: docs/C64i.PNG
-	:scale: 50%
+	:scale: 73%
 	:alt: This figure provides visual example of the C7pi to C6pi angle.
 	:figclass: align-center
 
@@ -265,7 +265,7 @@ V9. C7 angle
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. figure:: docs/C7PS.PNG
-	:scale: 50%
+	:scale: 71%
 	:alt: This figure provides visual example of the C7 PI-PS angle.
 	:figclass: align-center
 
@@ -275,7 +275,7 @@ V10. C7-C6 angle
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. figure:: docs/C76i.PNG
-	:scale: 50%
+	:scale: 73%
 	:alt: This figure provides visual example of the C7pi to C6pi angle.
 	:figclass: align-center
 
@@ -285,7 +285,7 @@ V11. C7-C5 angle
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. figure:: docs/C75i.PNG
-        :scale: 50%
+        :scale: 72%
         :alt: This figure provides visual example of the C7pi to C5pi angle.
 	:figclass: align-center
 
@@ -295,7 +295,7 @@ V12. C7-C4 angle
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. figure:: docs/C74i.PNG
-        :scale: 50%
+        :scale: 73%
         :alt: This figure provides visual example of the C7pi to C6pi angle.
 	:figclass: align-center
 
