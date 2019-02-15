@@ -6,166 +6,169 @@ The head position protocol includes 14 landmarks. These landmarks are used to ca
 
 Landmarking Protocol
 --------------------
-Each landmark is placed in the anatomical midsagittal plan allowing for the measurements to be calculated in 3D.
 
 .. figure:: docs/landmarkHP.PNGu
-	:scale: 50%
-	:alt: alternate text
+	:scale: 67%
+	:alt: This figure visualizes all landmarks necessary to classify head position.
 	:figclass: align-center
 
-	This figure identifies all landmarks necessary to classify head position. All landmarks should be placed in the anatomical midsagittal plane and allows the measurements to be calculated in 3D. 
+	This figure vizualizes all the landmarks necessary to classify head position. Each landmark should be placed in the anatomical midsagittal point defined for each landmark. These landmarks are used in combination to calculate the measurements described below. 
 
-	The following is a test to see if the legend is an option...
-
-	+---------------------------------------------------------------------------------------------------------------------------+
-	| Figure                    | Abreviation   | Definition                                                                    |
-	+===========================+===============+===============================================================================+
-	| ..image:: docs/ANS.JPG    | ANS           | This landmark is placed at the most anterior point of the nasal spine.        |
-	+---------------------------+---------------+-------------------------------------------------------------------------------+
-	| ..image:: docs/PNS.JPG    | PNS           | This landmark is placed at the most posterior point of the nasal spine.       |
-	+---------------------------+---------------+-------------------------------------------------------------------------------+
-
+	
 1. Anterior Nasal Spine (ANS)
-__________________________
-
-This landmark is placed at the most anterior point of the nasal spine.
+_____________________________
 
 .. figure:: docs/ANS.JPG
 	:scale: 50%
-	:alt: alternate text
+	:alt: This figure provides a visual example of the placement of the anterior nasal spine landmark.
 	:figclass: align-center
  
-	This figure provides visual example of the placement of the ANS landmark.
+	The first landmark is placed at the most anterior point of the nasal spine.
 
 
 2. Posterior Nasal Spine (PNS)
-___________________________
+______________________________
 
-This landmark is placed at the most posterior point of the nasal spine.
 
 .. figure:: docs/PNS.JPG
-     :scale: 50%
-     :alt: alternate text
+	:scale: 50%
+	:alt: This figure provides a visual example of the placement of the posterior nasal spine landmark.
 	:figclass: align-center 
 	
-	This figure provides visual example of the placement of the PNS landmark.
+	The second landmark is placed at the most posterior point of the nasal spine.
 
 
-3. Opisthion
-_________
+3. Opisthion (OPI)
+_________________
 
-This landmark is placed at the most anterior-interior point on the posterior margin of the foramen magnum.
 
 .. figure:: docs/OPI.JPG
-     :scale: 50%
-     :alt: alternate text
+	:scale: 51%
+	:alt: This figure provides a visual example of the placement of the opithion landmark.
 	:figclass: align-center 
 
-	This figure provides visual example of the placement of the OPI landmark.
+	The third landmark is placed at the most anterior-inferior point on the posterior margin of the foramen magnum.
 
 
 4. Spinous Process of C7 (SpPro7)
 ______________________________
 
-This landmark is placed at the most posterior point on the spinous process of C7. In the case of bifid spinous processes, the landmark should be placed on the midpoint of where the two sides deviate, instead of the exact most posterior point.
 
 .. figure:: docs/SpPro7.JPG
-      :scale: 50%
-      :alt: alternate text
+	:scale: 56%
+	:alt: This figure provides a visual example of the placement of the spinour process of C7 landmark.
 	:figclass: align-center
 
-	This figure provides visual example of the placement of the SpPro7 landmark.
+	The fourth landmark is placed at the most posterior point on the spinous process of C7. In the case of bifid spinous processes, the landmark should be placed on the midpoint of where the two sides deviate, instead of the exact most posterior aspect.
 
 
-5. Posterior Superior corner of C2 Apex (PSA)
-__________________________________________
+5. Posterior Superior corner of the apex of the axis, C2 (PSA)
+_____________________________________________________________
 
-This landmark is placed at the most posterior and superior corner of the apex at the anatomical midline of the odontoid. This landmark should be placed at the superior corner of the posterior border of C2.
 
 .. figure:: docs/PSA.JPG
-      :scale: 50%
-      :alt: alternate text 
+	:scale: 56%
+	:alt: This figure provides a visual example of the placement of the posterior superior apex of the axis (C2) landmark. 
 	:figclass: align-center
 
-	This figure provides visual example of the placement of the PSA landmark.
+	The fifth landmark is placed at the most posterior and superior conrner of the apex of the odontoid at the anatomical midline. This landmark should be placed at the superior corner of the posterior border of C2.
 
 
-6. Anterior Tubercle of Atlas (AT1)
+6. Anterior Tubercle of Atlas, C1 (AT1)
 ________________________________
 
-This landmark is placed at the most medio-anterior point of C1 denoting the anterior tubercle of the atlas, C1.
 
 .. figure:: docs/AT1.JPG
-      :scale: 50%
-      :alt: alternate text 
+	:scale: 57%
+	:alt: This figure provides visual example of the placement of the anterior tubercle of the atlas (C1). 
 	:figclass: align-center
 
-	This figure provides visual example of the placement of the AT1 landmark.
+	The sixth landmark is placed at the most medio-anterior point of C1 denoting the anterior tubercle of the atlas, C1.
 
 
 7-11. Posterior Inferior Margin of vertebral body
 ___________________________________________
 
-For C2 and C4 to C7, place the landmarks on each vertebrae at the most posterior and inferior point of the vertebral body in the anatomical midsagittal plane of the respective vertebral body.
+For C2 and C4 to C7, place the landmarks on each vertebrae at the most posterior and inferior point of the vertebral body.
 
 C2
 ++
 .. figure:: docs/C2pi.JPG
-       :scale: 50%
-       :alt: This figure provides visual example of the placement of the C2pi landmarks.
+	:scale: 56%
+	:alt: This figure provides visual example of the placement of the C2pi landmarks.
+	:figclass: align-center
+
+	The seventh landmark is placed at the most posterior and inferior point of the C2 vertebral body in the anatomical midsagittal plane.
 
 C4
 ++
 .. figure:: docs/C4pi.JPG
-	:scale: 50%
+	:scale: 56%
 	:alt: This figure provides visual example of the placement of the C4pi landmark.
+	:figclass: align-center	
+
+	The eight landmark is placed at the most posterior and inferior point of the C4 vertebral body in the anatomical midsagittal plane.
 C5
 ++
 .. figure:: docs/C5pi.JPG
-	:scale: 50%
+	:scale: 56%
 	:alt: This figure provides visual example of the placement of the C5pi landmark.
+	:figclass: align-center
+
+	The ninth landmark is placed at the most posterior and inferior point of the C5 vertebral body in the anatomical midsagittal plane.
 
 C6
 ++
 .. figure:: docs/C6pi.JPG
-	:scale: 50%
+	:scale: 57%
 	:alt: This figure provides visual example of the placement of the C6pi landmark.
+	:figclass: align-center
+
+	The tenth landmark is placed at the most posterior and inferior point of the C6 vertebral body in the anatomical midsagittal plane.
 
 C7
 ++
 .. figure:: docs/C7pi.JPG
-	:scale: 50%
+	:scale: 57%
 	:alt: This figure provides visual example of the placement of the C7pi landmark.
+	:figclass: align-center
+
+	The eleventh landmark is placed at the most posterior and inferior point of the C7 vertebral body in the anatomical midsagittal plane.
 
 
 12. Posterior Superior Margin of C7 vertebral body
 ______________________________________________
 
-This landmark is placed at the most posterior and superior point on C7 vertebral body in the anatomical midsagittal plane of the vertebral body.
 
-C7
-++
 .. figure:: docs/C7ps.JPG
-       :scale: 50%
-       :alt: This figure provides visual example of the placement of the C7ps landmark.
+	:scale: 56%
+	:alt: This figure provides a visual example of the placement of the C7ps landmark.
+	:figclass: align-center
+
+	The twelfth landmark is placed at the most posterior and superior point of the C7 vertebral body in the anatomical midsagittal plane.
 
 13-14. Anterior Inferior Margin of C2 and C7 vertebral bodies
 ______________________________________________________
 
-For C2 and C7, place the landmarks on each vertebrae at the most anterior and inferior point of the vertebral body in the anatomical midsagittal plane of the respective vertebral body.
+For C2 and C7, place the landmarks on each vertebrae at the most anterior and inferior point of the vertebral body.
 
 C2
 ++
 .. figure:: docs/C2ai.JPG
-       :scale: 50%
-       :alt: This figure provides visual example of the placement of the C2ai landmark.
+	:scale: 56%
+	:alt: This figure provides visual example of the placement of the C2ai landmark.
+	:figclass: align-center
+
+	The thirteenth landmark is placed at the most anterior and inferior point of the C2 vertebral body in the anatomical midsagittal plane.
 
 C7
 ++
 .. figure:: docs/C7ai.JPG
-	:scale: 50%
+	:scale: 56%
 	:alt: This figure provides visual example of the placement of the C7ai landmark.
+	:figclass: align-center
 
+	The fourteenth landmark is placed at the most anterior and inferior point of the C7 vertebral body in the anatomical midsagittal plane.
 
 Measurements
 ------------
@@ -179,41 +182,42 @@ ____________________________________
 V1. ANS-PNS Plane
 +++++++++++++
 
-The angle of the nasal spine plane defined by the anterior nasal spine (ANS, 1) and the posterior nasal spine (PNS, 2) landmarks subtended with the horizontal plane of the imaging study.
-
 .. figure:: docs/ANSPNS.PNG
-       :scale: 50%
-       :alt: This figure provides visual example of the ANS-PNS plane angle.
+	:scale: 50%
+	:alt: This figure provides visual example of the ANS-PNS plane angle.
+	:figclass: align-center
 
+	The angle of the nasal spine plane defined by the anterior nasal spine (ANS, 1) and the posterior nasal spine (PNS,2) landmarks subtended with the horizontal plane of the imaging study.
 
 V2. Maxillo-Pharyngeal (MP) Angle
 ++++++++++++++++++++++++
 
-The angle of intersection between the PNS (2) - anterior tubercle of C1 (AT1, 6) line and the AT1 (6) - anterior inferior point of C2 (C2ai, 13) line.
-
 .. figure:: docs/MP.PNG
-       :scale: 50%
-       :alt: This figure provides visual example of the MP angle.
+	:scale: 50%
+	:alt: This figure provides visual example of the MP angle.
+	:figclass: align-center
 
+	The angle of intersection between the PNS (2) - anterior tubercle of C1 (AT1, 6) line and the AT1 (6) - anterior inferior point of C2 (C2ai, 13) line.
 
 V5. Modified Bhalala head tilt angle
 ++++++++++++++++++++++++++++++++
 
-The angle of intersection between the PNS (2) - opisthion (OPI, 3) line and the OPI (3) - C7 spinous process (4) line.
-
 .. figure:: docs/Bhalala.PNG
-        :scale: 50%
+	:scale: 50%
         :alt: This figure provides visual example of the modified Bhalala angle.
+	:figclass: align-center
+
+	The angle of intersection between the PNS (2) - opisthion (OPI, 3) line and the OPI (3) - C7 spinous process (4) line.
 
 V7. C2 Angle
 ++++++++++++
 
-The angle of intersection between the posterior border of C2 (7,5) line and the ANS (1) - PNS (2) plane.
-
 .. figure:: docs/C2.PNG
 	:scale: 50%
 	:alt: This figure provides visual example of the C2 angle.
+	:figclass: align-center
 
+	The angle of intersection between the posterior border of C2 (7, 5) line and the ANS (1) - PNS (2) plane.
 
 
 Neck Measures
@@ -226,8 +230,9 @@ Antero-Posterior Measures
 The anterior and posterior distances are calculated between the inferior landmarks of C2 to C7 and used for two of the head position measures.
 
 .. figure:: docs/APDist.PNG
-       :scale: 50%
-       :alt: This figure provides visual example of the Anterior and Posterior distances.
+	:scale: 50%
+	:alt: This figure provides visual example of the Anterior and Posterior distances.
+	:align: center
 
 V3. Antero-Posterior Distance Ratio
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -248,48 +253,53 @@ The lower cervical spine has been measured using various combinations of landmar
 
 V8. C6-C4 angle
 ~~~~~~~~~~~~~~~~
-For this variation the posterior border is defined by the posterior inferior of C6 (10) to the posterior inferior of C4 (8).
 
 .. figure:: docs/C64i.PNG
 	:scale: 50%
 	:alt: This figure provides visual example of the C7pi to C6pi angle.
+	:figclass: align-center
+
+	This variation of the lower cervical spine angle defines the posterior border by the posterior inferior of C6 (10) to the posterior inferior of C4 (8).
 
 V9. C7 angle
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-For this variation the posterior border is defined by the posterior inferior of C7 (11) to the posterior superior of C7 (12).
-
 .. figure:: docs/C7PS.PNG
 	:scale: 50%
 	:alt: This figure provides visual example of the C7 PI-PS angle.
+	:figclass: align-center
 
+	This variation of the lower cervical spine angle defines the posterior border by the posterior inferior of C7 (11) to the posterior superior of C7 (12).
 
 V10. C7-C6 angle
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
-For this variation the posterior border is defined by the posterior inferior of C7 (11) to the posterior inferior of C6 (10).
 
 .. figure:: docs/C76i.PNG
 	:scale: 50%
 	:alt: This figure provides visual example of the C7pi to C6pi angle.
+	:figclass: align-center
 
+	This variation of the lower cervical spine angle defines the posterior border by the posterior inferior of C7 (11) to the posterior inferior of C6 (10).
 
 V11. C7-C5 angle
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
-For this variation the posterior border is defined by the posterior inferior of C7 (11) to the posterior inferior of C5 (9).
 
 .. figure:: docs/C75i.PNG
         :scale: 50%
         :alt: This figure provides visual example of the C7pi to C5pi angle.
+	:figclass: align-center
 
+	This variation of the lower cervical spine angle defines the posterior border by the posterior inferior of C7 (11) to the posterior inferior of C5 (9).
 
 V12. C7-C4 angle
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
-For this variation the posterior border is defined by the posterior inferior of C7 (11) to the posterior inferior of C4 (8).
 
 .. figure:: docs/C74i.PNG
         :scale: 50%
         :alt: This figure provides visual example of the C7pi to C6pi angle.
+	:figclass: align-center
 
+	This variation of the lower cervical spine angle defines the posterior border by the posterior inferior of C7 (11) to the posterior inferior of C4 (8).
 
 
 Upper and lower cervical spine difference
