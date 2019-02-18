@@ -16,7 +16,7 @@ Landmarking Protocol
 
 ========= =
 |ldmkall|
-========= =:	
+========= =	
 
 1. Anterior Nasal Spine (ANS)
 _____________________________
