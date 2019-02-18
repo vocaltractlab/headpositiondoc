@@ -15,7 +15,9 @@ This is documentation for classifying head-position using multiple measures to a
    protocol   
    protocolHP
    Interpretation
-   author
+   authors
+   help
+   license
 
 
 Indices and tables

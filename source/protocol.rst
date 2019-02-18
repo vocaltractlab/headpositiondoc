@@ -182,7 +182,7 @@ ____________________________________
 V1. ANS-PNS Plane
 +++++++++++++
 
-.. figure:: docs/ANSPNS.PNGq
+.. figure:: docs/ANSPNS.PNG
 	:scale: 112 %
 	:alt: This figure provides visual example of the ANS-PNS plane angle.
 	:figclass: align-center
