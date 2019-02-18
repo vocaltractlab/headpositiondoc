@@ -1,7 +1,7 @@
 Overview
 ========
 
-The following documentation provides a protocol and the necessary files to apply two hybrid predictive models use GUIDE forest to classify a medical imaging study as flexion, neutral, or extension based on 17 head position measures.
+The following documentation provides the protocol and necessary files to apply two hybrid predictive models, which use GUIDE forest, to classify medical imaging studies into one of six categories: flexion, neutral-flexion, neutral, neutral-extension, extension, or extension-flexion based on 17 head position measures.
 
 Background
 ----------
@@ -11,6 +11,6 @@ General
 -------
 The training dataset for each step that includes GUIDE forest consists of MRI scans from six participants in five different head positions; extension, flexion, neutral with open mouth, neutral with closed mouth, and neutral with standardized open mouth.  All scans were collected prospectively at University of Wisconsin Hospital and Clinics.
 
-The development and validation of this head position classification protocol has been submitted to Orthodontics & Craniofacial Research. The article can be accessed `here <http://>`_.
+The development and validation of this head position classification protocol has been submitted to Orthodontics & Craniofacial Research.
 
 

@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to HPDoc's documentation!
-=================================
+Welcome to the documentation for the Head Position Protocol
+===========================================================
 This is documentation for classifying head-position using multiple measures to account for the dynamic mobility of the head and neck.
 
 .. toctree::
@@ -15,7 +15,7 @@ This is documentation for classifying head-position using multiple measures to a
    protocol   
    protocolHP
    Interpretation
-
+   author
 
 
 Indices and tables

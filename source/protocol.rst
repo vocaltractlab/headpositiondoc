@@ -7,7 +7,7 @@ The head position protocol includes 14 landmarks. These landmarks are used to ca
 Landmarking Protocol
 --------------------
 
-.. figure:: docs/landmarkHP.PNGu
+.. figure:: docs/landmarkHP.PNG
 	:scale: 53%
 	:alt: This figure visualizes all landmarks necessary to classify head position.
 	:figclass: align-center
