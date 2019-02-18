@@ -14,9 +14,9 @@ Landmarking Protocol
 
 	This figure vizualizes all the landmarks necessary to classify head position. Each landmark should be placed in the anatomical midsagittal point defined for each landmark. These landmarks are used in combination to calculate the measurements described below. 
 
-=========
+========= =
 |ldmkall|
-=========	
+========= =:	
 
 1. Anterior Nasal Spine (ANS)
 _____________________________
