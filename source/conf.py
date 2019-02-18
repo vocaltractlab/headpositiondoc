@@ -45,8 +45,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'HPDoc'
-copyright = u'2018, Courtney Miller'
+project = u'Head Position Protocol'
+copyright = u'2019, Vocal Tract Development Lab'
 author = u'Courtney Miller'
 
 # The version info for the project you're documenting, acts as replacement for
