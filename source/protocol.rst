@@ -7,14 +7,17 @@ The head position protocol includes 14 landmarks. These landmarks are used to ca
 Landmarking Protocol
 --------------------
 
-.. figure:: docs/landmarkHP.PNG
+.. |ldmkall| figure:: docs/landmarkHP.PNG
 	:scale: 53%
 	:alt: This figure visualizes all landmarks necessary to classify head position.
 	:figclass: align-center
 
 	This figure vizualizes all the landmarks necessary to classify head position. Each landmark should be placed in the anatomical midsagittal point defined for each landmark. These landmarks are used in combination to calculate the measurements described below. 
 
-	
+=========
+|ldmkall|
+=========	
+
 1. Anterior Nasal Spine (ANS)
 _____________________________
 
