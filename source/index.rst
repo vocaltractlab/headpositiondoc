@@ -5,7 +5,7 @@
 
 Welcome to the documentation for the Head Position Protocol
 ===========================================================
-This is documentation for classifying head-position using multiple measures to account for the dynamic mobility of the head and neck.
+The following documents the Head Position Protocol which employs GUIDE forest to consider multiple measures accounting for the dynamic mobility of the head and neck. This protocol will classify medical imaging studies into one of six head positions: flexion, neutral-flexion, neutral, neutral-extension, extension, or extension-flexion.
 
 .. toctree::
    :maxdepth: 2

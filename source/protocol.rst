@@ -1,7 +1,9 @@
 
 Protocols to Set Up for Head Position Classification
 ====================================================
-The head position protocol includes 14 landmarks. These landmarks are used to calculate 17 measurements. These 17 measures are then used in two hybrid GUIDE forest prediction models to classify head position.
+The head position protocol requires 14 landmarks placed on medical imaging studies rendered in 3D. During the development of this protocol, the landmarks were acquired using Analyze 12.0. Each landmark should provide (x,y,z) coordinates and the voxel size should be recorded for each imaging study.
+
+The landmarks are used to calculate 17 measurements. These 17 measures are then used in two hybrid GUIDE forest prediction models to classify head position.
 
 
 Landmarking Protocol
@@ -173,7 +175,7 @@ C7
 Measurements
 ------------
 
-This protocol utilizes 17 measurements to quantify head position.  These measure assess both the face plane and the neck position inorder to predict if a image is in a flexed, neutral, or extended position. 
+This protocol utilizes 17 measurements to quantify head position. These measures assess both the face plane and the neck position.  
 
 
 Head Measures or Face Plane Measures
@@ -227,7 +229,7 @@ _____________
 Antero-Posterior Measures
 +++++++++++++++++++++++++
 
-The anterior and posterior distances are calculated between the inferior landmarks of C2 to C7 and used for two of the head position measures.
+The anterior and posterior distances are calculated between the inferior landmarks of C2 to C7 and used for two of the head position measures. To ensure the distance measurements are calculated in millimeters (mm), the coordinates should be multiplied by the voxel size of each imaging study.
 
 .. figure:: docs/APDist.PNG
 	:scale: 109%
