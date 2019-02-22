@@ -7,6 +7,7 @@ Prediction Agreement
 --------------------
 
 When the prediction of both models agree on the classification an imaging study can be categorized as the predictedposition.
+
 	* Imaging studies should be reviewed if both models predict neutral but have confidence scores that are less than 0.64 or predict flexion or extension but have confidence scores that are less than 0.3. Imaging studies should be classified as extreme if both models predict flexion or extension with confidence scores greater than 0.6.
 
 Prediction Disagreement

@@ -1,6 +1,6 @@
 
-Protocols to Set Up for Head Position Classification
-====================================================
+Data collection for Head Position Protocol
+==========================================
 The head position protocol requires 14 landmarks placed on medical imaging studies rendered in 3D. During the development of this protocol, the landmarks were acquired using Analyze 12.0. Each landmark should provide (x,y,z) coordinates and the voxel size should be recorded for each imaging study.
 
 The landmarks are used to calculate 17 measurements. These 17 measures are then used in two hybrid GUIDE forest prediction models to classify head position.
@@ -306,7 +306,6 @@ V12. C7-C4 angle
 
 Upper and lower cervical spine difference
 +++++++++++++++++++++++++++++++++++++++++
-
 
 The change in angles along the cervical spine assist with determining the neck position.  Following are multiple angle difference measures.
 
