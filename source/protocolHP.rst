@@ -3,7 +3,7 @@
 Head Position Protocol
 ======================
 
-.. figure:: docs/Protocolmap.JPGu
+.. figure:: docs/Protocolmap.JPG
 	:scale: 50%
 	:alt: This figure shows the process map for both models of the head position protocol.
 
