@@ -3,8 +3,8 @@
 Head Position Protocol
 ======================
 
-.. figure:: docs/Protocolmap.jpg
-	:scale: 75%
+.. figure:: docs/Protocolmap.JPGu
+	:scale: 50%
 	:alt: This figure shows the process map for both models of the head position protocol.
 
 Above is the protocol process map dipicting the two hybrid predictive models.
