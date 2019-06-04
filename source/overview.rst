@@ -18,6 +18,6 @@ General
 -------
 The training dataset for each step that includes GUIDE forest consists of MRI scans from six participants in five different head positions; extension, flexion, neutral with open mouth, neutral with closed mouth, and neutral with standardized open mouth.  All scans were collected prospectively at University of Wisconsin Hospital and Clinics.
 
-The development and validation of this head position classification protocol has been submitted to Orthodontics & Craniofacial Research.
+The development and validation of this head position classification protocol has been submitted for publication. Once the manuscript is published the citation will be listed here.
 
 
